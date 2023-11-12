@@ -1,0 +1,39 @@
+# MEAN
+The mean (average) of a data set is found by adding all numbers in the data set and then dividing by the number of values in the set. 
+
+# MEDIAN
+The median is the middle value when a data set is ordered from least to greatest. 
+
+# MODE
+The mode is the number that occurs most often in a data set. 
+
+# STANDARD DEVIATION
+Standard deviation measures the spread of a data distribution. 
+
+It measures the typical distance between each data point and the mean.
+
+
+The formula we use for standard deviation depends on whether the data is being considered a population of its own, or the data is a sample representing a larger population.
+
+
+If the data is being considered a population on its own, we divide by the number of data points, 
+
+If the data is a sample from a larger population, we divide by one fewer than the number of data points in the sample.
+
+# Sample Variance
+Sample variance is used to measure the spread of the data points in a given data set around the mean. 
+
+All observations of a group are known as the population. 
+
+When the number of observations start increasing it becomes difficult to calculate the variance of the population. 
+
+In such a situation, a certain number of observations are picked out that can be used to describe the entire group. 
+This specific set of observations form a sample and the variance so calculated is the sample variance.
+
+# Confidence Interval: Sample Mean
+To construct a confidence interval for a sample mean, we need to know the variability of the sample mean. 
+
+This means we need to know how to compute the standard deviation or the standard error of the sampling distribution.
+
+# Z - SCORE
+A z-score measures exactly how many standard deviations above or below the mean a data point is.
